@@ -1,2 +1,2 @@
 # rublog
-ruby blog
+ruby blog is currently under way
